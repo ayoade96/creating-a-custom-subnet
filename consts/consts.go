@@ -13,11 +13,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "Dambaz-Chain"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "Dambaz"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "DMB"
 )
 
 var ID ids.ID
